@@ -1,0 +1,3 @@
+"""
+CLI Markdown Viewer package
+"""
