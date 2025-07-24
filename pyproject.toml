@@ -9,7 +9,7 @@ description = "A command line tool to display Markdown files"
 readme = "README.md"
 authors = [
     {name = "Matt Lowe", email = "matt.lowe@amg-group.co.uk"}
-],
+]
 maintainers = [
   { name = "AMG Group", email = "matt.lowe@amg-group.co.uk" }
 ]
